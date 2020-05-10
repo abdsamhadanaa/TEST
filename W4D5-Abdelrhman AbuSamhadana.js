@@ -6,3 +6,5 @@ function getPeopleBornIn  (arrayOfObjects , month){
 }}
   return result;
 }
+//hey people how are you ? 
+
